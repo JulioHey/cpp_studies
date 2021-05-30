@@ -1,0 +1,9 @@
+{
+  "name": "julio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "g++ main.cpp -o main && ./main"
+  }
+}
